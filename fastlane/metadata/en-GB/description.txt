@@ -1,0 +1,14 @@
+Sports
+This is the app description of the application. 
++--------------------+--------------------------------------+
+[15:01:25]: An attribute value is too short. - App Description must be at least 10 characters in length. - /data/attributes/description
+
++------+------------------------+-------------+
+|              fastlane summary               |
++------+------------------------+-------------+
+| Step | Action                 | Time (in s) |
++------+------------------------+-------------+
+| 1    | default_platform       | 0           |
+| 2    | increment_build_numbe  | 2           |
+|      | r                      |             |
+| 3    | build_app              | 36
